@@ -1,1 +1,1 @@
-wtbea.dev/aoc062024
+wtbea.dev/aoc072024
